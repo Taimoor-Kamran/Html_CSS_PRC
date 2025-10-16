@@ -5,81 +5,78 @@
 }
 
 /* h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 } */
 
 /* h1{
-    font-size: 45px;
+    font-size: 100px;
 } */
-
-/* p{
-    font-size: 20px;
-    font-weight: 400;
+/* 
+p{
+    font-weight: 900;
     font-weight: bold;
+    font-weight: bolder;
+} */
+/* 
+p{
+    font-style: italic;
 } */
 
 /* p{
-    font-style: italic;
-}
- */
-
-/* p{
-    font-size: 20px;
     font-variant: small-caps;
 } */
 
+
 /* p{
-    color: yellow;
-    color: #333333;
+    color: aqua;
+    color: pink;
+    color: rgba(3, 3, 3, 0.2);
+} */
+/* 
+h1{
+    text-align: end;
+} */
+
+
+/* h1{
+    text-align: center;
+    text-decoration: underline double blue;
 } */
 
 /* h1{
-    text-align: end
+    text-transform: uppercase;
+    text-transform: none;
 } */
 
 /* h1{
     text-align: center;
-    text-decoration: underline solid pink;
-} */
-
-/* h1{
-    text-align: center;
-    text-transform: capitalize;
-}
-
-p{
-    text-transform: capitalize;
-} */
-
-/* h1{
-    text-shadow: -5px -5px 1px blue;
+    text-shadow: -5px -5px 3px blue;
 } */
 
 /* p{
-    width: 200px;
     white-space: nowrap;
+    overflow: hidden;
     text-overflow: ellipsis;
 } */
 
 /* h1{
-    letter-spacing: 3px;
+    letter-spacing: 20px;
 } */
 
 /* h1{
-    word-spacing: 55px;
+    word-spacing: 50px;
 } */
-
-/* h1{
-    line-height: 2px;
+/* 
+h1{
+    line-height: 1px;
 } */
 
 /* p{
-    white-space: nowrap;
+    white-space: normal;
 } */
 
-
 /* p{
-  text-indent: 130px;  
+    text-indent: 200px;
 } */
 
 /* p{
@@ -87,11 +84,12 @@ p{
 } */
 
 /* p{
-    writing-mode: vertical-rl; 
     writing-mode: horizontal-tb;
 } */
+
 
 /* p{
     direction: rtl;
     unicode-bidi: bidi-override;
 } */
+
