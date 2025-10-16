@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} */
+
+/* h1{
+    font-size: 45px;
+} */
+
+/* p{
+    font-size: 20px;
+    font-weight: 400;
+    font-weight: bold;
+} */
+
+/* p{
+    font-style: italic;
+}
+ */
+
+/* p{
+    font-size: 20px;
+    font-variant: small-caps;
+} */
+
+/* p{
+    color: yellow;
+    color: #333333;
+} */
+
+/* h1{
+    text-align: end
+} */
+
+/* h1{
+    text-align: center;
+    text-decoration: underline solid pink;
+} */
+
+/* h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    text-transform: capitalize;
+} */
+
+/* h1{
+    text-shadow: -5px -5px 1px blue;
+} */
+
+/* p{
+    width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+} */
+
+/* h1{
+    letter-spacing: 3px;
+} */
+
+/* h1{
+    word-spacing: 55px;
+} */
+
+/* h1{
+    line-height: 2px;
+} */
+
+/* p{
+    white-space: nowrap;
+} */
+
+
+/* p{
+  text-indent: 130px;  
+} */
+
+/* p{
+    direction: rtl;
+} */
+
+/* p{
+    writing-mode: vertical-rl; 
+    writing-mode: horizontal-tb;
+} */
+
+/* p{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+} */
